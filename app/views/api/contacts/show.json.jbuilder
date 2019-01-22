@@ -1,1 +1,1 @@
-json.partial! @contact, partial: "contact", as: :product
+json.partial! @contact, partial: "contact", as: :contact
